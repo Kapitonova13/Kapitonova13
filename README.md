@@ -6,7 +6,7 @@
 - **Frontend:** JavaScript (ES6+), React, React Router, HTML5, CSS3, SCSS
 - **Инструменты:** Vite, Git, DevTools
 
-## 📚 Мой проект
+## 📚 Проекты
 ### [Book Diary](https://github.com/Kapitonova13/book-diary)
 Личный дневник чтения, в котором можно вести коллекцию книг, отслеживать прогресс чтения, оставлять отзывы, сохранять цитаты и просматривать статистику.
 - Поиск, фильтрация и сортировка книг
@@ -16,3 +16,9 @@
 **Стек:** JavaScript, React, Context API, React Router, SCSS, Vite
 
 📙 [Посмотреть демо](https://kapitonova13.github.io/book-diary/)
+
+### [Road Defects Detection](https://github.com/Kapitonova13/noise_robust_road_detection)
+Дипломный проект: веб-интерфейс для визуализации результатов детекции дефектов дорожного покрытия.
+- Frontend: HTML, CSS, JavaScript, Canvas API (отрисовка рамок), fetch + FormData (загрузка изображений)
+- Интерактивный слайдер порога уверенности — фильтрация объектов в реальном времени
+- Бэкенд на Python (Flask), ансамбль из трёх ML-моделей 
