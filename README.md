@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет☺️
 
-<!--
-**Kapitonova13/Kapitonova13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Начинающий Frontend-разработчик**. Мне интересно создавать функциональные и удобные веб-приложения.
 
-Here are some ideas to get you started:
+## 🛠 Технологии и инструменты
+- **Frontend:** JavaScript (ES6+), React, React Router, HTML5, CSS3, SCSS
+- **Инструменты:** Vite, Git, DevTools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Мой проект
+### [Book Diary](https://github.com/Kapitonova13/book-diary)
+Личный дневник чтения, в котором можно вести коллекцию книг, отслеживать прогресс чтения, оставлять отзывы, сохранять цитаты и просматривать статистику.
+- Поиск, фильтрация и сортировка книг
+- Управление состоянием с помощью Context API и useReducer
+- Сохранение данных в localStorage браузера
+
+**Стек:** JavaScript, React, Context API, React Router, SCSS, Vite
+
+📙 [Посмотреть демо](https://kapitonova13.github.io/book-diary/)
